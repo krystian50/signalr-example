@@ -1,0 +1,14 @@
+/Users/krystian50/Nauka/dotnet_signalr/StockTickRApp/bin/Debug/netcoreapp2.1/StockTickR.deps.json
+/Users/krystian50/Nauka/dotnet_signalr/StockTickRApp/bin/Debug/netcoreapp2.1/StockTickR.runtimeconfig.json
+/Users/krystian50/Nauka/dotnet_signalr/StockTickRApp/bin/Debug/netcoreapp2.1/StockTickR.runtimeconfig.dev.json
+/Users/krystian50/Nauka/dotnet_signalr/StockTickRApp/bin/Debug/netcoreapp2.1/StockTickR.dll
+/Users/krystian50/Nauka/dotnet_signalr/StockTickRApp/bin/Debug/netcoreapp2.1/StockTickR.pdb
+/Users/krystian50/Nauka/dotnet_signalr/StockTickRApp/obj/Debug/netcoreapp2.1/StockTickR.csprojAssemblyReference.cache
+/Users/krystian50/Nauka/dotnet_signalr/StockTickRApp/obj/Debug/netcoreapp2.1/StockTickR.csproj.CoreCompileInputs.cache
+/Users/krystian50/Nauka/dotnet_signalr/StockTickRApp/obj/Debug/netcoreapp2.1/StockTickR.RazorAssemblyInfo.cache
+/Users/krystian50/Nauka/dotnet_signalr/StockTickRApp/obj/Debug/netcoreapp2.1/StockTickR.RazorAssemblyInfo.cs
+/Users/krystian50/Nauka/dotnet_signalr/StockTickRApp/obj/Debug/netcoreapp2.1/StockTickR.AssemblyInfoInputs.cache
+/Users/krystian50/Nauka/dotnet_signalr/StockTickRApp/obj/Debug/netcoreapp2.1/StockTickR.AssemblyInfo.cs
+/Users/krystian50/Nauka/dotnet_signalr/StockTickRApp/obj/Debug/netcoreapp2.1/StockTickR.RazorTargetAssemblyInfo.cache
+/Users/krystian50/Nauka/dotnet_signalr/StockTickRApp/obj/Debug/netcoreapp2.1/StockTickR.dll
+/Users/krystian50/Nauka/dotnet_signalr/StockTickRApp/obj/Debug/netcoreapp2.1/StockTickR.pdb

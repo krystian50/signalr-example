@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/krystian50/.dotnet/store/|arch|/|tfm|",
+      "/Users/krystian50/.nuget/packages",
+      "/Users/krystian50/Nauka/dotnet_signalr/sdk/NuGetFallbackFolder"
+    ]
+  }
+}
