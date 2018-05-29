@@ -1,18 +1,16 @@
 ﻿<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title>ASP.NET Core SignalR Stock Ticker</title>
+    <title>ASP.NET Core SignalR Machine Temp</title>
     <link href="StockTicker.css" rel="stylesheet" />
 </head>
 <body>
-    <h1>ASP.NET Core SignalR Stock Ticker Sample</h1>
+    <h1>ASP.NET Core BD Rowa Temperature - stream example</h1>
+    <input type="button" id="open" value="Open Stream" />
+    <input type="button" id="close" value="Close Stream" disabled="disabled" />
+    <input style="display: none" type="button" id="reset" value="Reset" />
 
-    <input type="button" id="open" value="Open Market" />
-    <input type="button" id="close" value="Close Market" disabled="disabled" />
-    <input type="button" id="reset" value="Reset" />
-
-    <h2>Live Stock Table3</h2>
-    <div id="stockTable">
+    <div style="display: none" id="stockTable">
         <table border="1">
             <thead>
                 <tr><th>Symbol</th><th>Price</th><th>Open</th><th>High</th><th>Low</th><th>Change</th><th>%</th></tr>
@@ -22,8 +20,7 @@
         </table>
     </div>
 
-    <h2>Live Stock Ticker</h2>
-    <div id="stockTicker">
+    <div style="display: none" id="stockTicker">
         <div class="inner">
             <ul position="absolute">
             </ul>
