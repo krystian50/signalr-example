@@ -13,7 +13,7 @@ namespace CsharpClient
         static async Task Main(string[] args)
         {
             var connection = new HubConnectionBuilder()
-                .WithUrl("/stocks")
+                .WithUrl("https://stocktickr.azurewebsites.net/stocks")
                 .ConfigureLogging(logging =>
                 {
                     logging.AddConsole();
