@@ -20,7 +20,7 @@ namespace StockTickR
         private readonly Subject<Stock> _subject = new Subject<Stock>();
 
         // Stock can go up or down by a percentage of this factor on each change
-        private readonly double _rangePercent = 0.002;
+        private readonly double _rangePercent = 0.004;
 
         private readonly TimeSpan _updateInterval = TimeSpan.FromMilliseconds(1000);
         private readonly Random _updateOrNotRandom = new Random();
