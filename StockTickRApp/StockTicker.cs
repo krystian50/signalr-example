@@ -22,7 +22,7 @@ namespace StockTickR
         // Stock can go up or down by a percentage of this factor on each change
         private readonly double _rangePercent = 0.002;
 
-        private readonly TimeSpan _updateInterval = TimeSpan.FromMilliseconds(250);
+        private readonly TimeSpan _updateInterval = TimeSpan.FromMilliseconds(1000);
         private readonly Random _updateOrNotRandom = new Random();
 
         private Timer _timer;

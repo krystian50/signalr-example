@@ -91,7 +91,7 @@ function moveTicker() {
 }
 
 function marketOpened() {
-    tickerInterval = setInterval(moveTicker, 20);
+    tickerInterval = setInterval(moveTicker, 60);
     document.getElementById('open').setAttribute("disabled", "disabled");
     document.getElementById('close').removeAttribute("disabled");
     document.getElementById('reset').setAttribute("disabled", "disabled");
