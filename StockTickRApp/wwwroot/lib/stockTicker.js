@@ -20,7 +20,7 @@ var up = '▲';
 var down = '▼';
 
 let connection = new signalR.HubConnectionBuilder()
-    .withUrl("/signalR")
+    .withUrl("/stocks")
     .build();
 
 connection.start().then(function () {
